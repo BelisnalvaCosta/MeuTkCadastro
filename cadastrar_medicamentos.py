@@ -1,4 +1,6 @@
 # Função para adicionar medicamento ao estoque
+# Autor do código cadastrar_medicamentos -> Elton L. M. Rocha
+
 from GraficoTkMedicamentos import cadastrar_medicamentos
 
 
