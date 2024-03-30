@@ -2,7 +2,7 @@
 
 Cadastro de Clientes e de medicamentos feitos na IDE Visual Studio Code, linguagem Python e a interface gráfica Tkinter [^1].
 
-Este projeto, têm etapas das tecnologias Back-end e Front-end, para desenvolvimento um aplicativo de Cadastro de estoque de medicamentos e de clientes, e também criar um alerta para comunicar aos clientes/pacientes quando os remédios (medicamentos) estarão disponíveis em suas farmácias ou estabelecimentos farmacêuticos. Este aplicativo um "Protótipo" está sendo projetado para fins Acadêmicos (Univesp). 
+Este projeto, têm etapas das tecnologias Back-end e Front-end, para desenvolvimento de um aplicativo de Cadastro de estoque de medicamentos e de cadastro de clientes, com o objetivo de também criar um alerta para comunicar aos clientes/pacientes quando os medicamentos estarão disponíveis em suas farmácias ou estabelecimentos farmacêuticos. Este aplicativo, um "Protótipo" está sendo projetado para fins Acadêmicos (Univesp). 
 Autor do "código" cadastrar_medicamentos: Elton L. M. Rocha, GRUPO do Projeto Integrador - Computação I: Belisnalva, Elton, Gian, Jose, Sionaria, Thais, Vitor, Ygor. 
 
 ## _*Tecnologia utilizada_*
